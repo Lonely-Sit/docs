@@ -2,4 +2,4 @@
 - :memo: 目录
    - 第1章：开发入门
    
-       - [第3节：两种方式创建插件工程](/md/idea-plugin/2021-10-18-第一节：两种方式创建插件工程.md)
+       - [第1节：hello world](/md/教程/hello-world.md)
